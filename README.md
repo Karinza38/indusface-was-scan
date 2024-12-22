@@ -1,4 +1,4 @@
-# Indusface WAS Scan Plugin
+Indusface WAS Scan Plugin
 
 ### Overview
 The Indusface WAS Scan Plugin enhances your Jenkins pipelines with automated security scanning, helping you identify and address vulnerabilities early in the development cycle. By integrating seamlessly into CI/CD workflows, this plugin ensures that security is part of your development process.
